@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>POSmain.jpg</file>
+    <file>back_ground.png</file>
+    <file>time.png</file>
+    <file>ad_mode.png</file>
+    <file>barcode.png</file>
+    <file>card.png</file>
+    <file>exit.png</file>
+    <file>gift.png</file>
+    <file>list.png</file>
+    <file>m.png</file>
+    <file>money.png</file>
+    <file>pay_check.png</file>
+    <file>POSmain.jpg</file>
+  </qresource>
+</RCC>
