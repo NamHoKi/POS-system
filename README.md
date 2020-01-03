@@ -1,5 +1,5 @@
-# POS-system
-### (Software Engineering Project)
+# POS-system (Software Engineering Project)
+----------
 ##### - python version : 3.7
 ##### - GUI : PyQt5
 ##### - DB : PyMySQL
