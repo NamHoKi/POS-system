@@ -4,7 +4,7 @@
 ##### 구현해 놓은 DB는 학교(부경대학교 대연캠퍼스) 안에서만 연결을 허용하였습니다.
 ##### 사용설명서와 관련 문서는 파일로 만들어놨습니다.
 ----------
-## ScreenShot
+# ScreenShot
 ![pos1](https://user-images.githubusercontent.com/48282708/71708968-de8bbc00-2e37-11ea-845f-cb05bfa08f77.png)
 ![pos2](https://user-images.githubusercontent.com/48282708/71708970-dfbce900-2e37-11ea-9363-9f9227ffea7c.png)
 ![pos3](https://user-images.githubusercontent.com/48282708/71708972-e0557f80-2e37-11ea-881b-7373382e318c.png)
