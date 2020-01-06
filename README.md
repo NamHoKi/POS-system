@@ -15,10 +15,10 @@
 ##### - Mongoboard <https://www.mangoboard.net/>
 ----------
 ## ScrennShot and Use
-<img src="https://user-images.githubusercontent.com/48282708/71791030-c6ee4680-3076-11ea-9e82-01feefa337e2.png" width="80%" height="80%" />
-<img src="https://user-images.githubusercontent.com/48282708/71791032-c81f7380-3076-11ea-90ad-c7bb47c3ffc4.png" width="80%" height="80%" />
-<img src="https://user-images.githubusercontent.com/48282708/71791035-c950a080-3076-11ea-8509-c4c81309bd2c.png" width="80%" height="80%" />
-<img src="https://user-images.githubusercontent.com/48282708/71791036-ca81cd80-3076-11ea-983c-3ef5bb1f631a.png" width="80%" height="80%" />
+<img src="https://user-images.githubusercontent.com/48282708/71791030-c6ee4680-3076-11ea-9e82-01feefa337e2.png" width="100%" height="100%" />
+<img src="https://user-images.githubusercontent.com/48282708/71791032-c81f7380-3076-11ea-90ad-c7bb47c3ffc4.png" width="100%" height="100%" />
+<img src="https://user-images.githubusercontent.com/48282708/71791035-c950a080-3076-11ea-8509-c4c81309bd2c.png" width="100%" height="100%" />
+<img src="https://user-images.githubusercontent.com/48282708/71791036-ca81cd80-3076-11ea-983c-3ef5bb1f631a.png" width="100%" height="100%" />
 
 
 ----------
