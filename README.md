@@ -18,6 +18,8 @@
 <img src="https://user-images.githubusercontent.com/48282708/71791032-c81f7380-3076-11ea-90ad-c7bb47c3ffc4.png" width="90%" height="90%" />
 <img src="https://user-images.githubusercontent.com/48282708/71791035-c950a080-3076-11ea-8509-c4c81309bd2c.png" width="90%" height="90%" />
 <img src="https://user-images.githubusercontent.com/48282708/71791036-ca81cd80-3076-11ea-983c-3ef5bb1f631a.png" width="90%" height="90%" />
+
+
 ----------
 ## Step
 #### 자세한 내용과 예시는 POS system.hwp에 있습니다.
