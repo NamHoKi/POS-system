@@ -15,7 +15,7 @@
 ##### - Mongoboard <https://www.mangoboard.net/>
 ----------
 ## ScrennShot and Use
-![pos_use1](https://user-images.githubusercontent.com/48282708/71791030-c6ee4680-3076-11ea-9e82-01feefa337e2.png){: width="50%" height="50%"}
+![pos_use1](https://user-images.githubusercontent.com/48282708/71791030-c6ee4680-3076-11ea-9e82-01feefa337e2.png)<width="300" height="300">
 ![pos_use2](https://user-images.githubusercontent.com/48282708/71791032-c81f7380-3076-11ea-90ad-c7bb47c3ffc4.png)
 ![pos use3](https://user-images.githubusercontent.com/48282708/71791035-c950a080-3076-11ea-8509-c4c81309bd2c.png)
 ![pos use4](https://user-images.githubusercontent.com/48282708/71791036-ca81cd80-3076-11ea-983c-3ef5bb1f631a.png)
