@@ -1,4 +1,5 @@
 # POS-system (Software Engineering Project)
+## [자세한 설명 문서](https://github.com/NamHoKi/POS-system/blob/master/POS%20system.hwp)
 ----------
 ## Project info
 ##### - 계산할 때 사용하는 POS 시스템을 구현하는 것이 목표입니다.
